@@ -20,3 +20,6 @@
 
 ## 調査レポート
 → [report.md](./report.md) を参照してください。
+
+- [収支表（index.html）](https://kozo114.github.io/AXtest/)  
+　→ ブラウザで開けるサンプル出力（HTML形式）です。
